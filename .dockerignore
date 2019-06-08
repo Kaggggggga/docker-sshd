@@ -1,0 +1,18 @@
+.git
+.gitignore
+.github
+.vscode
+docs
+.commitlintrc.json
+.editorconfig
+.importsortrc.json
+.lintstagedrc.json
+.travis.yml
+README
+
+# ignore .dockerignore for multistage build
+.dockerignore
+docker-compose.yaml
+docker-compose.yml
+examples
+Dockerfile
